@@ -1,2 +1,2 @@
 # rachelkersey
-My personal repository.
+I am a third year at UVA studying psychology and data science. 
